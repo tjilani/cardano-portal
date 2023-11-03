@@ -1,0 +1,15 @@
+.btn-link {
+  display: inline-block;
+  width: 8rem;
+  background: forestgreen;
+  border-radius: 0.5rem;
+  text-align: center;
+  line-height: 0.5rem;
+  color: white;
+  text-decoration: none;
+  padding: 1.5rem 1rem;
+  font-size: 1.1rem;
+}
+.btn-link:hover {
+  background-color: coral;
+}
